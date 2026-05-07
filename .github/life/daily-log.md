@@ -1,13 +1,17 @@
 # 7 maja
 
-Sen: 7h
-Nastrój: 6/10
+Sen: 8h
+Nastrój: 7/10
 
 Zdrowie:
 - spacer
+- pływanie
 
 Nauka:
 - git push/pull
-
+- Książka: Dale Carnegie "Jak zdobyć przyjaciół i zjednać sobie ludzi"
+  
 Życie:
 - pranie
+- regularne posiłki
+- lista wdzięczności
