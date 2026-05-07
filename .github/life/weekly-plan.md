@@ -1,6 +1,6 @@
 # Weekly Plan
 
-## Tydzień: __________
+## Tydzień: _____1_____
 
 # Główne cele tygodnia
 
