@@ -22,8 +22,8 @@ Sen: 8h
 Nastrój: 8/10
 
 Zdrowie:
-- 
-- 
+- Ćwiczenia na strychu
+- Regularne posiłki
 
 Nauka:
 - git push/pull
@@ -31,5 +31,23 @@ Nauka:
   
 Życie:
 - pranie
-- regularne posiłki
 - lista wdzięczności
+
+# 9 maja
+
+Sen: 8h
+Nastrój: 9/10
+
+Zdrowie:
+- Ćwiczenia na strychu
+- Regularne posiłki
+
+Nauka:
+- git push/pull
+- Książka: Dale Carnegie "Jak zdobyć przyjaciół i zjednać sobie ludzi"
+  
+Życie:
+- pranie
+- lista wdzięczności
+- Spotkanie z mamą
+- 
