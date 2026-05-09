@@ -11,15 +11,15 @@
 - [x] ograniczenie chaosu internetowego
 
 ## Nauka
-- [ ] 3 sesje nauki Git/GitHub
+- [x] 3 sesje nauki Git/GitHub
 - [x] 1 mały commit
 - [x] przeczytać / obejrzeć 1 materiał edukacyjny
-- [ ] zrobić jedną małą praktyczną rzecz
+- [x] zrobić jedną małą praktyczną rzecz
 
 ## Życie
 - [x] pranie / sprzątanie
 - [ ] zakupy
-- [ ] ogarnąć dokumenty / maile
+- [x] ogarnąć dokumenty / maile
 - [ ] przygotować plan kolejnego tygodnia
 
 ---
@@ -46,7 +46,7 @@ Focus:
 
 ## Wtorek
 Focus:
-- Basen
+- 
 -
 -
 
@@ -58,7 +58,7 @@ Focus:
 
 ## Czwartek
 Focus:
--
+- Basen
 -
 -
 
